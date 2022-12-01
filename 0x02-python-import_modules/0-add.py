@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""Print the sum of 1 and 2."""
+
 import add_0 as ad
 a = 1
 b = 2
